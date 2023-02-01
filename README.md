@@ -21,11 +21,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/kazeboba/checklist)
+- [Test-Suites and Test-Cases](https://github.com/kazeboba/test-cases)
+- [Bug-Reports](https://github.com/kazeboba/bug-reports)
+- [SQL Queries](https://github.com/kazeboba/SQL)
+- [Postman Collections](https://github.com/kazeboba/postman)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
