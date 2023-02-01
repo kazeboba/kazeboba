@@ -1,7 +1,7 @@
 [![Header](https://github.com/kazeboba/kazeboba/blob/main/assets/Frame%20635%20(3).png)](https://github.com/kazeboba)
 ## I'm a QA Specialist | QA Enginer.
 ## My CV
-[Link to my CV](https://docs.google.com/document/d/119BkxsfZs5S48oghDr3NTDwpwzu_dcySFaDac6BoOdw/edit?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1uHZSdSpJ-1VxAZfXq1S0v6uKMiabPeoT/view?usp=share_link)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
