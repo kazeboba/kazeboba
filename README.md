@@ -1,17 +1,7 @@
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Specialist | QA Enginer. 
+## I'm a QA Specialist | QA Enginer.
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/119BkxsfZs5S48oghDr3NTDwpwzu_dcySFaDac6BoOdw/edit?usp=sharing)
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Зачем тестировщику git и GitHub? #shorts #git #github #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=31MT3iH2fNg)
-- [Postman для тестировщика 2023: обзор функций и интерфейса](https://www.youtube.com/watch?v=B2TxMRFBm8I)
-- [Как просить пересмотр зарплаты? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=5sMR7e6mS4U)
-- [Что делать, если на проекте нет требований? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=QW6hM-vDLxw)
-- [Баги и дефекты это не KPI #войтивайти #тестировщикснуля #shorts](https://www.youtube.com/watch?v=Ig2HXBROEL8)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
