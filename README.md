@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/kazeboba/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://github.com/kazeboba/kazeboba/blob/main/assets/Frame%20635%20(3).png)](https://github.com/kazeboba)
 ## I'm a QA Specialist | QA Enginer.
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/119BkxsfZs5S48oghDr3NTDwpwzu_dcySFaDac6BoOdw/edit?usp=sharing)
